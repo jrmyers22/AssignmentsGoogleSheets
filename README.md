@@ -4,7 +4,7 @@ This is a digital planner of sorts, meant to help organize and notify university
 ## On Page Load
 
 **_This GIF is slowed down immensely due to Github GIF-processing - it only takes a second or two in real time_**
-![color_and_popup](https://user-images.githubusercontent.com/17054668/65897566-8bf4bc80-e37d-11e9-95cc-e91cf1c8a341.gif)
+![updated](https://user-images.githubusercontent.com/17054668/65902831-40e0a680-e389-11e9-9ffc-03205a7e49c8.gif)
 Once the page loads, the sheet first color codes the assignments (above 5 days left - white background, between 3 and 5 days left - orange background, under 3 days left - red background). After color coding the assignments, a popup is displayed showing the assignments due in the next 5 days. 
 
 ## Another look at the initial popup
